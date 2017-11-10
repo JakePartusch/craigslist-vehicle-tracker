@@ -8,10 +8,10 @@ npm install
 npm start
 ```
 
-###Example URL:
+### Example URL:
 [http://localhost:8000/vehicle/search?city=omaha&minAsk=5000&maxAsk=15000&minAutoYear=2005&maxAutoYear=2016&autoMakeModel=lexus](http://localhost:8000/vehicle/search?city=omaha&minAsk=5000&maxAsk=15000&minAutoYear=2005&maxAutoYear=2016&autoMakeModel=lexus)
 
-###Example response:
+### Example response:
 
 ```javascript
 [
@@ -38,7 +38,7 @@ npm start
 ]
 ```
 
-###Email format:
+### Email format:
 ```
 2007 LEXUS IS 250 AWD: $10800
 https://omaha.craigslist.org/cto/123456789.html
